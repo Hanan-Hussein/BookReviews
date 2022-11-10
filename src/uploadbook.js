@@ -56,7 +56,7 @@ function UploadBook(){
                     <input type="text" placeholder='Enter book' className='form-control'/>
                     <label className="form-label my-3">Author Name</label>
                     <input type="text" placeholder='Enter author name'  className='form-control'/>
-                    <label className="form-label my-3">Product Description</label>
+                    <label className="form-label my-3">Book Description</label>
                     <input type="text " placeholder='Enter book description'  className='form-control'/>
                     <label className="form-label my-3">Category</label>
                         <select class="form-control " id="exampleFormControlSelect1">
