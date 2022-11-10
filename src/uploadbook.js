@@ -65,7 +65,13 @@ function UploadBook(){
                             <option>Fiction</option>
                             <option>Poetry</option>
                     </select>
-
+                    <label className="form-label my-3">ISBN</label>
+                    <input type="text " placeholder='Enter book description'  className='form-control'/>
+                    <label className="form-label my-3">Publisher</label>
+                    <input type="text " placeholder='Enter book description'  className='form-control'/>
+                    <label className="form-label my-3">Year Published</label>
+                    <input type="date " placeholder='Enter book description'  className='form-control'/>
+                
                     </div>
                                       <button className='btn btn-primary my-5'>Add Book</button>
 
